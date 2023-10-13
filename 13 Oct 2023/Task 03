@@ -1,0 +1,11 @@
+Explain the difference between the = operator and the == operator in Python.
+Ans: Equal to the operator is used for assigning the value from the right side to the left side
+ & == operator is used to check the value whether 2 values are equal or not.
+
+What does the ** operator do in Python, and how is it used?
+Ans: It’s an exponential operator 
+e.g 3**3 means 3 power of 3 and returns 3*3*3 = 27
+
+What does the ^ operator do in Python, and in what context is it commonly used?
+Ans: Python bitwise XOR operator returns 1 if one of the bits is 0 and the other bit is 1. 
+If both the bits are 0 or 1, then it returns 0.
